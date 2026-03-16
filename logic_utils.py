@@ -1,5 +1,5 @@
 # logic_utils.py
-
+#
 def get_range_for_difficulty(difficulty: str):
     if difficulty == "Easy":
         return 1, 20
